@@ -7,4 +7,6 @@
     <string name="title_activity_test">Test</string>
     <string name="setting">settings</string>
     <string name="about">about</string>
+    <string name="text">This page is still under developement, soory for any inconvenience</string>
+    <string name="text2">This page is still under development, Sorry for any inconvenience</string>
 </resources>
