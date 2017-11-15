@@ -1,5 +1,7 @@
 package com.codeclan.example.wordcounter;
 
+import com.codeclan.example.wordcounter.models.WordCounterExtended;
+
 import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.*;

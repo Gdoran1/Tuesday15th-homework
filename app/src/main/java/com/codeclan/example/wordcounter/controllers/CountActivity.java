@@ -1,9 +1,11 @@
-package com.codeclan.example.wordcounter;
+package com.codeclan.example.wordcounter.controllers;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
+
+import com.codeclan.example.wordcounter.R;
 
 public class CountActivity extends AppCompatActivity {
 

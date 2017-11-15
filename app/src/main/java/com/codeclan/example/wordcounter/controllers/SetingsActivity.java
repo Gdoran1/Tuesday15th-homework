@@ -1,7 +1,9 @@
-package com.codeclan.example.wordcounter;
+package com.codeclan.example.wordcounter.controllers;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.codeclan.example.wordcounter.R;
 
 public class SetingsActivity extends AppCompatActivity {
 

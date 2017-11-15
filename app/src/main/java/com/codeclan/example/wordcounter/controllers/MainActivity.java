@@ -1,4 +1,4 @@
-package com.codeclan.example.wordcounter;
+package com.codeclan.example.wordcounter.controllers;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -11,6 +11,10 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+
+import com.codeclan.example.wordcounter.R;
+import com.codeclan.example.wordcounter.models.WordCounter;
+import com.codeclan.example.wordcounter.models.WordCounterExtended;
 
 /**
  * Created by sandy on 26/10/2016.

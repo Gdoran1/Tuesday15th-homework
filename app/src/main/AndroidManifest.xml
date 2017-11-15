@@ -8,16 +8,17 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".controllers.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".SetingsActivity" />
-        <activity android:name=".AboutActivity" />
-        <activity android:name=".CountActivity"></activity>
+        <activity android:name=".controllers.SetingsActivity" />
+        <activity android:name=".controllers.AboutActivity" />
+        <activity android:name=".controllers.CountActivity">
+        </activity>
     </application>
 
 </manifest>

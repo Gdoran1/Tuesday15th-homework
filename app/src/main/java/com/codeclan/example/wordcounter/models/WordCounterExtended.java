@@ -1,4 +1,4 @@
-package com.codeclan.example.wordcounter;
+package com.codeclan.example.wordcounter.models;
 
 
 import java.util.HashMap;

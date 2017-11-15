@@ -1,4 +1,4 @@
-package com.codeclan.example.wordcounter;
+package com.codeclan.example.wordcounter.models;
 
 /**
  * Created by sandy on 13/12/2016.

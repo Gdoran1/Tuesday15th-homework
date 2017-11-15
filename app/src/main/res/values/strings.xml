@@ -9,4 +9,7 @@
     <string name="about">about</string>
     <string name="text">This page is still under developement, soory for any inconvenience</string>
     <string name="text2">This page is still under development, Sorry for any inconvenience</string>
+    <string name="heading">This is an app designed to count the number of words in a sentence</string>
+    <string name="subheading">You can use it to get the total number of words in a sentence, or how many times each word appears</string>
+    <string name="body">Hello my name is Graeme this app was build on 14/11/17</string>
 </resources>
